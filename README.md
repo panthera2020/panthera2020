@@ -7,8 +7,8 @@
 🚀 Software Engineer | Java Developer | Python & JavaScript Learner | Open to Work
 
 💡 I learn by building: every concept I pick up becomes a small project, a task, or a test suite
-🌍 Based in [Your City], Nigeria
-🎯 Currently sharpening my Java, data structures and backend fundamentals through the PhaseGate programme
+🌍 Based in Lagos, Nigeria
+🎯 Currently sharpening my Java, data structures and backend 
 
 ---
 
@@ -16,8 +16,8 @@
 
 I started from the fundamentals and I keep shipping something with every new concept I learn, from object-oriented design to data structures, validation logic and test-driven development.
 
-- ☕ **Java** – OOP, collections, data structures, JUnit-based TDD
-- 🐍 **Python** – classes, regex, password encryption, record-keeping systems
+- ☕ **Java** – OOP, collections, data structures, JUnit-based TDD, springBoot
+- 🐍 **Python** – classes, regex, password encryption, record-keeping systems, FastApi
 - 🟨 **JavaScript** – functions, control flow and class exercises, learning "as I go"
 - 🧩 **Data Structures** – ArrayList, Linked List, Stack, Queue, Map and Set implementations
 - 🏦 **Fintech-flavoured problems** – card verification, NUBAN account validation, account systems
