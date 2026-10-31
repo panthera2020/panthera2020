@@ -1,101 +1,95 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Emmanuel%20Oyediran&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
-
-# Hi there 👋, I'm Emmanuel (Panthera)
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=650&lines=Software+Engineer+in+the+Making;Java+%7C+OOP+%7C+Data+Structures;Python+%7C+JavaScript;Test-Driven+Development+with+JUnit;Open+to+Work+%F0%9F%9A%80)
-
-🚀 Software Engineer | Java Developer | Python & JavaScript Learner | Open to Work
-
-💡 I learn by building: every concept I pick up becomes a small project, a task, or a test suite
-🌍 Based in Lagos, Nigeria
-🎯 Currently sharpening my Java, data structures and backend 
-
----
-
-## 🧠 About Me
-
-I started from the fundamentals and I keep shipping something with every new concept I learn, from object-oriented design to data structures, validation logic and test-driven development.
-
-- ☕ **Java** – OOP, collections, data structures, JUnit-based TDD, springBoot
-- 🐍 **Python** – classes, regex, password encryption, record-keeping systems, FastApi
-- 🟨 **JavaScript** – functions, control flow and class exercises, learning "as I go"
-- 🧩 **Data Structures** – ArrayList, Linked List, Stack, Queue, Map and Set implementations
-- 🏦 **Fintech-flavoured problems** – card verification, NUBAN account validation, account systems
-- 🧪 **Testing** – writing tests first (statistics TDD, card verification) before writing the code
-- 🔭 Currently working through structured bootcamp tasks, LeetCode practice and growing a bigger portfolio of Java and Python projects
-- 👯 Open to collaborating, internships, junior roles and impactful open-source projects
-- 🏅 GitHub Achievements: **Pull Shark** 🦈 and **YOLO** 🎯
-
----
-
-# 🌱 Currently Learning
+<h1 align="center">Emmanuel Oyewale Oyediran</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=00F7FF&center=true&vCenter=true&width=800&lines=Object-Oriented+Programming+in+Java;Data+Structures+%26+Algorithms;Test-Driven+Development+with+JUnit;Python+for+Real-World+Systems;JavaScript+Fundamentals;Solving+LeetCode+Problems" />
+  <b>Software Engineer | Java · Spring Boot · Python · JavaScript</b><br/>
+  Open to internships, entry-level and junior software engineering roles
 </p>
 
-<div align="center">
-
-| 📚 Learning | 🎯 Goal |
-|------------|----------|
-| Object-Oriented Programming (Java) | Clean, reusable, well-designed classes |
-| Data Structures & Algorithms | Strong problem-solving, LeetCode consistency |
-| JUnit & TDD | Write tests first, ship reliable code |
-| Python | Build practical systems and automation |
-| JavaScript | Move from fundamentals into the web |
-| Git & GitHub | Daily commits, clean collaboration |
-
-</div>
-
-## 🛠️ Tech Stack
-
-### Languages
-[![Skills](https://skillicons.dev/icons?i=java,python,js,html,css)](https://skillicons.dev)
-
-### Tools & Workflow
-[![Skills](https://skillicons.dev/icons?i=git,github,idea,vscode)](https://skillicons.dev)
-
----
-
-## ⚡ Additional Technologies
-
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Regex](https://img.shields.io/badge/Regex-FF6F00?style=for-the-badge&logo=regex&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-2C5364?style=for-the-badge&logo=openjdk&logoColor=white)
-![TDD](https://img.shields.io/badge/TDD-0F2027?style=for-the-badge&logo=testinglibrary&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-
----
-
-## 🚀 Featured Projects
-
-- 🔗 [**My-Projects**](https://github.com/panthera2020/My-Projects) – Java OOP and data structures: Airline, Account, Bike, Airconditioner, Student & StudentGrade, Geo Political Zones, NUBAN validation, Card Verification, plus Linked List, Stack, Queue, Map, Set and ArrayList implementations
-- 🔗 [**My-Python-Projects**](https://github.com/panthera2020/My-Python-Projects) – Python systems: University Record System, MFD System, Password Encryption, Card Validation, Movie Rating, Regex exercises, Student and Account classes
-- 🔗 [**MajekTasks**](https://github.com/panthera2020/MajekTasks) – A numbered series of Java tasks: Back To Sender Logistics, PizzaWahala, Statistics (TDD), Verify Card, array exercises and Wrap-up Snacks, with JUnit tests
-- 🔗 [**phaseGate-Emmanuel-**](https://github.com/panthera2020/phaseGate-Emmanuel-) – My 10-day PhaseGate programme journey, day one through day ten plus a wrap-up (65+ commits)
-- 🔗 [**My-JavaScript**](https://github.com/panthera2020/My-JavaScript) – JavaScript as I go: class exercises, functions and if/else tasks
-- 🔗 [**LeetCodeExcercise**](https://github.com/panthera2020/LeetCodeExcercise) – LeetCode practice, in progress
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=panthera2020&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panthera2020&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <a href="https://github.com/panthera2020">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/your-linkedin">LinkedIn</a> ·
+  <a href="mailto: diranoye2020@gmail.com">Email</a> ·
+  <a href="https://twitter.com/sega_dudu">X</a>
 </p>
 
 ---
 
-## 📫 Connect With Me
+## Summary About Me
 
-- GitHub: https://github.com/panthera2020
-- X (Twitter): https://twitter.com/sega_dudu
-- Portfolio: _coming soon_
-- LinkedIn: _add your link here_
-- Email: _add your email here_
+Software engineer focused on backend development with Java, Spring Boot, python and JavaScript. I build REST APIs, work with controllers and the HTTP request/response cycle, manage projects with Maven, and write unit tests with JUnit. I am also growing on the data and front-end sides, with databases and JavaScript DOM manipulation.
+
+My foundation is solid: object-oriented design, data structures and test-driven development. I apply it in projects that move from console programs to web services, and I keep my work in public repositories with a steady commit history.
+
+I am looking for a team where I can contribute to real products, learn from experienced engineers and grow into a dependable full-stack developer.
+
+**Based in:** Lagos, Nigeria  |  **Availability:** Immediately  |  **Work mode:** Remote or hybrid
 
 ---
 
-## ⚡ Fun Fact
-I believe the best way to learn is to build, break, test and rebuild. 76 commits into one repo and counting. 🐆
+## Core Skills
+
+| Area | Technologies and concepts |
+|------|---------------------------|
+| **Languages** | Java, Python, JavaScript, HTML, CSS |
+| **Backend** | Spring Boot, REST API design, controllers, HTTP requests and responses |
+| **Build and Dependency Management** | Maven |
+| **Databases** | Database fundamentals (actively learning) |
+| **Front-End Fundamentals** | JavaScript, DOM manipulation, HTML, CSS |
+| **Object-Oriented Design** | Encapsulation, inheritance, polymorphism, abstraction |
+| **Data Structures and Algorithms** | Linked List, Stack, Queue, Map, Set, ArrayList; LeetCode practice |
+| **Testing** | JUnit, test-driven development |
+| **Tools** | Git, GitHub, IntelliJ IDEA, VS Code |
+
+[![Skills](https://skillicons.dev/icons?i=java,spring,maven,python,js,html,css,git,github,idea,vscode)](https://skillicons.dev)
+
+---
+
+## What I Build
+
+My projects span three areas, and all of them are on my [GitHub](https://github.com/panthera2020):
+
+- **Backend services:** REST APIs in Spring Boot, with controllers that handle HTTP requests and return structured responses, built and managed with Maven.
+- **Object-oriented and data structure programs:** Java and Python applications that model real-world systems, such as account, record-keeping and validation logic, including data structures implemented from scratch.
+- **Front-end practice:** JavaScript exercises covering functions, control flow and DOM manipulation.
+
+Across all of them I write unit tests with JUnit and apply TDD where it fits.
+
+---
+
+## Engineering Practices
+
+- Modelling problems with clean object-oriented design and various design patterns
+- Designing REST endpoints with clear request and response handling
+- Writing unit tests and using TDD to keep code reliable
+- Implementing core data structures to understand how they work, not just how to use them
+- Using Git with regular, well-scoped commits
+
+---
+
+## Currently Developing
+
+- Working with databases and connecting them to Spring Boot applications
+- DOM manipulation and connecting front-end pages to REST APIs
+- Deeper data structures and algorithms through regular LeetCode practice
+- Building larger, deployable full-stack projects for this portfolio
+
+---
+
+## What I'm Looking For
+
+- **Roles:** Software Engineer Intern, Graduate or Junior Software Engineer, Backend Developer (Java, Spring Boot, python, JS), Junior Full-Stack Developer
+- **Environment:** Collaborative teams with code review, mentorship and good engineering practice
+- **Interests:** Backend systems, APIs, fintech and problem-solving at scale
+
+---
+
+## Contact
+
+- **Email:** diranoye2020@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/your-linkedin
+- **GitHub:** https://github.com/panthera2020
+- **X:** https://twitter.com/sega_dudu
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panthera2020&layout=compact&theme=default&hide_border=true" height="150" />
+</p>
